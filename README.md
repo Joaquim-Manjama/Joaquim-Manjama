@@ -40,7 +40,7 @@ Building cool things, learning every day, and sharing knowledge.
 
 ### Backend
 
-![SpringBoot]
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools
