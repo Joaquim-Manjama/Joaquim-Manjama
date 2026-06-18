@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Aspiring Full-Stack Developer | Student | Software Engineering Enthusiast
+### Aspiring Software Engineer | Student | Problem Solving Enthusiast
 
 Building cool things, learning every day, and sharing knowledge.
 
@@ -14,7 +14,7 @@ Building cool things, learning every day, and sharing knowledge.
 
 - 🔭 Currently working on: **Tidal - Changelog Generator**
 - 🌱 Currently learning: **How full stack applications work (in practice using Spring boot and React).**
-- 👯 Looking to collaborate on: **Full Stack Projects**
+- 👯 Looking to collaborate on: **Software Engineering Projects**
 - 💬 Ask me about: **Science and any other interesting topics.**
 - ⚡ Fun fact: **I like potatoes.**
 
@@ -42,6 +42,12 @@ Building cool things, learning every day, and sharing knowledge.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools
 
@@ -76,12 +82,20 @@ Building cool things, learning every day, and sharing knowledge.
 
 ---
 
+## 🧩 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manjama/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Manjama?theme=dark&font=Nunito)
+
+---
+
 ## 🎯 Current Goals
 
-- [ ] Finish my ongoing projects
-- [ ] Learn more and improve constantly
-- [ ] Collaborate
-- [ ] Solve real problems
+- 🚀 Shipping projects instead of leaving them unfinished.
+- 📚 Becoming a confident software engineer.
+- 🤝 Learning from and contributing to the developer community.
+- 💡 Creating software that makes people's lives easier.
 
 ---
 
