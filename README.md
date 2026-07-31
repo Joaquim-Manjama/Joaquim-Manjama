@@ -60,17 +60,6 @@ Building cool things, learning every day, and sharing knowledge.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaquim-Manjama&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim-Manjama&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
