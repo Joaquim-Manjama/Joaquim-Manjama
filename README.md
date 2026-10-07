@@ -12,7 +12,7 @@ Building cool things, learning every day, and sharing knowledge.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Tidal - Changelog Generator**
+- 🔭 Currently working on: **Khalendara**
 - 🌱 Currently learning: **How full stack applications work (in practice using Spring boot and React).**
 - 👯 Looking to collaborate on: **Software Engineering Projects**
 - 💬 Ask me about: **Science and any other interesting topics.**
